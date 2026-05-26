@@ -68,8 +68,8 @@ Legende: x = Daten vorhanden | ☐ = Daten fehlen noch | Stadtteile = Stadtteile
 |--------|-------|---------|------------|
 | ☐ | Brandenburg an der Havel | — | k.A. |
 | ☐ | Cottbus | — | k.A. |
-| ☐ | Frankfurt (Oder) | — | k.A. |
-| ☐ | Potsdam | — | 38 |
+| x | Frankfurt (Oder) | — | k.A. |
+| x | Potsdam | — | 38 |
 
 ---
 
